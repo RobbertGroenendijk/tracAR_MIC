@@ -11,5 +11,5 @@ Controls:
 Now dance the night away!
 
 Currently build on
-xCode 10.1
-iPad Pro - iOS 12.1
+- xCode 10.1
+- iPad Pro - iOS 12.1
