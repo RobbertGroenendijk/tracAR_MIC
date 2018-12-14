@@ -9,3 +9,7 @@ Controls:
 - Hold ipad and touch the screen with thumbs on both sides of the screen to start logging data & generate geometry.
 
 Now dance the night away!
+
+Currently build on
+xCode 10.1
+iPad Pro - iOS 12.1
